@@ -193,7 +193,7 @@ Este projeto é fornecido como material educacional do curso Alura.
 
 ## 👥 Autor
 
-**João Ricardo Moreira**
+**Junior Moreira Martins**
 - GitHub: [@jrmoreiram](https://github.com/jrmoreiram)
 
 ## 📞 Suporte
