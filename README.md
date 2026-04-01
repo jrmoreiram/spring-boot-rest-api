@@ -1,8 +1,8 @@
-# Spring Boot REST API
+# 🍃 Spring Boot REST API
 
 Uma aplicação de API REST desenvolvida com Spring Boot, focada em demonstrar as melhores práticas de desenvolvimento de APIs modernas com Java.
 
-**Baseado no Curso:** Curso de Spring Boot API REST: construa uma API da DevMedia
+**Baseado no Curso:** Curso de Spring Boot API REST: construa uma API da Alura
 
 ---
 
