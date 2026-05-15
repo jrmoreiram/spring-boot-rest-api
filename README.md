@@ -44,7 +44,7 @@ O projeto segue o padrão **Modelo-Visão-Controlador (MVC)** com separação de
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    Client/Requisição                     │
+│                    Client/Requisição                    │
 └────────────────────────┬────────────────────────────────┘
                          │
                   ┌──────▼──────┐
